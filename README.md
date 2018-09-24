@@ -1,0 +1,1 @@
+# Object-Detection-with-Amazon-Rekognition-API
